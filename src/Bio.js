@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
     firstName: {
         fontFamily: 'LibreBaskerville',
         fontSize: 12,
-        lineHeight: "0.3mm"
+        lineHeight: "0.9mm"
     },
     lastName: {
         fontFamily: 'LibreBaskerville',
