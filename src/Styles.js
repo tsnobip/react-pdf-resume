@@ -69,7 +69,7 @@ export const innerMargin = "5mm"
 export const smallerInnerMargin = "3mm"
 export const defaultTextColor = "#3f454d"
 export const lighterText = "#7f7f85"
-export const defaultLineHeight = "0.6mm"
+export const defaultLineHeight = "4.2mm"
 export const defaultFontSize = 8
 export const smallerFontSize = 7
 
@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
     },
     leftPan: {
         margin: defaultMargin,
-        width: "60mm",
+        width: "100mm",
         fontFamily: 'Montserrat',
         fontWeight: 'ultralight',
         flexDirection: "column",
