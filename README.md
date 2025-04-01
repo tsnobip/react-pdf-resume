@@ -1,5 +1,11 @@
 # Résumé made with `react-pdf`
 
+> [!IMPORTANT]  
+> This repository is now archived and is no longer maintained.
+>
+> Please take a look at my new project, [tsnobip/typst-typographic-resume](https://github.com/tsnobip/typst-typographic-resume)
+> to write beautiful résumés in a much simpler way using a [typst](https://typst.app/) template.
+
 ## Download my Résumé
 
 Go to [actions](https://github.com/tsnobip/resume/actions/) and click on the
